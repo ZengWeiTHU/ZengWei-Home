@@ -9,5 +9,7 @@ toc: true # 目录
 # pinned: true 是否置顶
 ---
 
+这里是文章简介
+
 # nvidia-smi
 nvidia-smi是一个常用的命令，我时常不知道其输出的信息怎么看。
