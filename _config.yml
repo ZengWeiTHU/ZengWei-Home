@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: ZengWei's Home
-description: 
+description: 记录生活
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -76,12 +76,12 @@ footer-text: Copyright (c) 2024 中国·深圳
 disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: Ov23li48jEA6mKqyJLn9
-  clientSecret: 103537a4454e0dc3404411c3ee66b0900d7c85eb
-  repo: ZengWei-Home
-  owner: zengweithu
-  proxy:
+# gitalk:
+#   clientID: Ov23li48jEA6mKqyJLn9
+#   clientSecret: 103537a4454e0dc3404411c3ee66b0900d7c85eb
+#   repo: ZengWei-Home
+#   owner: zengweithu
+#   proxy:
 
 # 输入Google Analytics web tracking code
 google_analytics:
