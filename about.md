@@ -54,10 +54,39 @@ permalink: /about/
     
 
 * 2020年9月-2023年6月，清华大学深圳国际研究生院先进制造学部，电子信息（仪器仪表工程），MEMS柔性压力传感器方向【硕士】
+    <ul>
+    <li>
+        <details>
+        <summary>参与项目：</summary>
+            <ul>
+                <li>国家自然科学基金（61971261）《基于压电驻极体柔性传感器的寸口脉诊可穿戴系统研究》</li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+        <summary>论文发表：</summary>
+            <ul>
+                <li> Liuyang Han, Wei Zeng, Ying Dong, Xiaohao Wang, and Liwei Lin. "Mapping and Simultaneous Detection of Arterial and Venous Pulses using Large-Scale High-Density Flexible Piezoelectret Sensor Array", Advanced electronic materials 8.9 (2022) </li>
+                <li> Liuyang Han, Weijin Liang, Yuhan Liu, Wei Zeng, Jianyu Wang, Zhihan Yang, Qian Zhou, Ying Dong, and Xiaohao Wang. "Stretchable piezoelectret electronic stethoscope for phonocardiography and lung sound detection in motion and noise conditions", APPLIED MATERIALS TODAY 36 (2024) </li>
+                <li> Temporal-spatial replication of the pulse haptic sensation empowering the Traditional Chinese Medicine （在投） </li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+        <summary>毕业论文：</summary>
+            <ul>
+                <li> 《基于单目计算机视觉的肩关节康复运动检测系统》 </li>
+            </ul>
+        </details>
+    </li>
+    </ul>
+
 * 2023年7月-2024年8月，深圳中微电科技有限公司，GPU架构师
 
 求学之路漫漫，其中的辛酸苦辣只有自己知道。每每在求学中遇到高富帅同学便心生嫉妒，叹气自己一样也没有。但我知道嫉妒、抱怨是不起作用的，我得自己好好生活，好好工作，走好自己未来的路。
 
-回首过去，也就童年在赖村的7年最是无忧无虑地快乐，此后便很难了，此后的快乐往往都需要代价。
+回首过去，也就童年在赖村的7年最是无忧无虑的快乐，此后便很难了，此后的快乐往往都需要付出代价。
 
 （写于2024年7月10日晚，在深圳出租屋内）
