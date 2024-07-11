@@ -77,7 +77,7 @@ permalink: /about/
         <details>
         <summary>毕业论文：</summary>
             <ul>
-                <li> 《基于单目计算机视觉的肩关节康复运动检测系统》 </li>
+                <li> 《可穿戴脉诊仪及其算法研究》 </li>
             </ul>
         </details>
     </li>
