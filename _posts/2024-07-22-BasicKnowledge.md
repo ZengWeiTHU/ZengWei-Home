@@ -24,5 +24,10 @@ toc: true # 目录
     * Python
     * Java
 * **芯片基础**：
+    * SoC设计方法
+    * FPGA
+    * Verilog
+* **AI基础**：
+    * 深度学习
     * 
 
